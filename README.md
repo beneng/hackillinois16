@@ -1,3 +1,5 @@
 # hackillinois16
 Smart Doorbell
-sfs
+
+
+download and mkdir faces
